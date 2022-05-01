@@ -1,0 +1,35 @@
+
+
+.header {
+	height: auto;
+	font-weight: bold;
+	font-size: 50px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: 'Georgia', serif;
+}
+
+.byline {
+	font-family: Georgia, serif;
+	font-style: italic;
+	font-size: 20px;
+	color: gray;
+}
+
+.story_header {
+	font-size: 30px;
+	font-style: italic;
+	color: black;
+}
+
+img {
+	border: 2px solid maroon;
+
+}
+
+body {
+	font-family: Georgia, sans-serif;
+	font-size: 20px;
+	color: black;
+}

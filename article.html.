@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/fonts/fonts.css">
+    <link rel="stylesheet" href="css/main.css">
+    <title>More Than Half The Covid-19 Related Deaths in Texas Were Individuals 70+</title>
+  </head>
+  <body>
+
+    <div class="article">
+
+      <div class="story_header">
+        <h1>Deaths of individuals 70+ made up 53.7 % of all Covid-19 deaths in Texas.</h1>
+  
+        <p class="byline">Whitney Wilson <br>JNL 221 Student</p>
+        <p>Posted on May 1, 2022</p>
+      </div>
+
+      <div class="story_copy">
+
+        <img class="photo" src="IMG_3CAE15ECE302-1.jpeg" alt="">
+        <p class="photo_caption">Elderly patient getting wheeled around hospital<br>Anadolu Agency</p>
+        <p> Nunc euismod dolor leo, ac convallis sem vestibulum in. Vestibulum turpis magna, sagittis mollis diam quis, pellentesque posuere ligula. Integer feugiat nisi magna, ut facilisis lorem ullamcorper non. Morbi ut elit et ex suscipit tempor eget ac nunc. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ut enim et neque accumsan ultricies a non odio. Vivamus a tincidunt lectus. Proin efficitur facilisis metus in dignissim. Nunc ullamcorper egestas enim, ac tempus enim suscipit non. Nullam mollis orci vitae velit eleifend fringilla. Pellentesque in sodales enim, in venenatis ligula. Vivamus nec est mollis est accumsan vestibulum. Nullam odio neque, feugiat at purus sed, dictum iaculis felis. Quisque sit amet erat egestas, luctus ante eu, accumsan sem. Duis id turpis lorem.
+
+        Integer eu dictum urna, eget ultricies ipsum. Suspendisse accumsan sed risus ac cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam et tellus tristique, sagittis nibh a, consequat tortor. Etiam porttitor varius justo vitae tincidunt. Nulla facilisi. Sed magna mauris, tempus non porttitor at, pellentesque nec nisi. Aliquam iaculis sit amet dui quis dictum. Etiam tincidunt leo odio, vel varius tellus ultrices eu. Suspendisse id facilisis sem, id aliquet ipsum.
+
+        Suspendisse elementum facilisis leo, nec lobortis ligula tincidunt et. Maecenas ut porttitor mauris. Maecenas elit dolor, suscipit ac placerat sed, lobortis at augue. Duis rutrum rutrum ligula pulvinar imperdiet. Aenean condimentum eleifend ultrices. Donec viverra, diam sit amet tempor aliquam, massa turpis molestie elit, vitae tempor nunc nulla at est. Mauris ultricies urna vel semper viverra. Donec sollicitudin bibendum interdum. Phasellus quis dignissim urna, quis ultricies eros.
+
+        Nulla suscipit nisi risus, sit amet scelerisque lacus suscipit eget. Phasellus eget est sed metus porta auctor lacinia commodo ante. Ut accumsan enim id facilisis dignissim. Suspendisse ex dolor, ultricies sit amet dolor nec, dignissim malesuada elit. Fusce dignissim sapien a est euismod dapibus. Praesent non lacus interdum, volutpat sapien at, rhoncus sapien. Pellentesque finibus dui sit amet dolor semper, ut placerat quam accumsan.</p>
+
+        <img class="photo" src="Screen Shot 2022-05-01 at 3.54.36 PM" alt="">
+  </body>
+</html>
